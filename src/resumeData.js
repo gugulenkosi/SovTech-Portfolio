@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"https://bulobuko.github.io/",
     "name": "Njabulo Mazibuko",
     "role": "aspiring software engineer",
     "linkedinId":"4a13a4174",
@@ -29,37 +29,30 @@ let resumeData = {
       {
         "UniversityName":"Univeristy of Cape Town",
         "specialization":"Electrical and Computer Engineering",
-        "MonthOfPassing":"Dec",
-        "YearOfPassing":"2022",
+        "MonthOfPassing":"March",
+        "YearOfPassing":"2023",
         "Achievements":"Completed"
       },
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
+        "CompanyName":"UCT Contract Research and Innovation",
+        "specialization":"Intern Back-end Engineer",
         "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfLeaving":"2023",
+        "Achievements":"Completed"
       },
-      {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
-      }
     ],
     "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Nodejs"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Expressjs"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"MongoDB"
       }
     ],
     "portfolio":[
@@ -68,31 +61,12 @@ let resumeData = {
         "description":"mobileapp",
         "imgurl":"images/portfolio/phone.jpg"
       },
-      {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Great gent. An absolute pleasure to work with",
+        "name":"John Doe"
       },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
     ]
   }
   
